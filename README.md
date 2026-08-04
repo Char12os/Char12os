@@ -1,7 +1,7 @@
 <h1>👋 About Me:</h1>
 
 <p>
-  Hola, soy <strong>Elisa Oses</strong> 👋
+  Hola, soy <strong>Elisa Oses</strong> 
 </p>
 <p>
 Full Stack Developer
